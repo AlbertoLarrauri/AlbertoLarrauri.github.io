@@ -11,19 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, Zaragoza University, July 2018
-* M.S. in Advanced Mathematics and Mathematical Engineering, Barcelona Tech, July 2019
-* Ph.D in Applied Mathematics, Barcelona Tech, January 2023 (expected)
+* B.S. in Mathematics, Zaragoza University, Sep. 2014 - Jul. 2018.
+* M.S. in Advanced Mathematics and Mathematical Engineering, Barcelona Tech, Sep. 2018 - Jul. 2019. Master thesis titled <i> First Order Logic of Sparse Hyper-graphs
+</i> awarded with honors.
+* Ph.D in Applied Mathematics, Barcelona Tech, Sep. 2019 - Jan. 2023 (expected).
 
 
 Work experience
 ======
-* Research Assistant in the SCOS group at TU Graz from October 2020. 
+* Research Assistant in the Systematic Construction of Correct Systems (SCOS) group at TU Graz from October 2020. 
 
 
 Teaching
 ======
-* Problem Workshop for math students at Barcelona Tech. Winter semester 2019, summer semester 2020.
+* Problem Workshop, together with Marina Garrote. 1st and 2nd Semester Mathematics Bachelor, Barcelona Tech. Sep. 2019 - Jul. 2020.
+* Model Checking, supporting role. Computer Science Master (optional), TU Graz. Summer Semester 2021.
+* Logic and Computability, supporting role. 3rd Semester Computer Science Bachelor (mandatory), TU Graz. Summer Semester 2022.
+
 
 
 Other Activities
