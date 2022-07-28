@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alberto Larrauri / Personal Webpage"
+title                    : "Alberto Larrauri / About Me"
 title_separator          : "-"
 name                     : &name "Alberto Larrauri"
 description              : &description "personal description"
