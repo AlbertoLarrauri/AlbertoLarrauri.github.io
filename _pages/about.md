@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br>
 
-Since September 2019 am a PhD student in the program of Applied Mathematics at Barcelona Tech, under the supervision of Marc Noy. My main areas of research are the asymptotic study of random structures, finite model theory and the interplay between the two. During my PhD, I study various different random models through the lens of first-order logic, such as the Erdős-Rényi graph, graphs with given degree sequences and uniform graphs in addable minor-closed classes. I also have done work on random hypergraphs and more general relational structures. 
+Since September 2019 am a PhD student in the program of Applied Mathematics at Barcelona Tech, under the supervision of Marc Noy. My main areas of research are the asymptotic study of random structures, finite model theory and the interplay between the two. In my PhD I study various different random models through the lens of first-order logic, such as the Erdős-Rényi graph, graphs with given degree sequences and uniform graphs in addable minor-closed classes. I also have done work on random hypergraphs and more general relational structures. 
 <br>
 
 
