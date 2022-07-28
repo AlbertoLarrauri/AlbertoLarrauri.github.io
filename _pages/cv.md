@@ -11,49 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Zaragoza University, July 2018
+* M.S. in Advanced Mathematics and Mathematical Engineering, Barcelona Tech, July 2019
+* Ph.D in Applied Mathematics, Barcelona Tech, January 2023 (expected)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant in the SCOS group at TU Graz from October 2020. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Problem Workshop for math students at Barcelona Tech. Winter semester 2019, summer semester 2020.
+
+
+Other Activities
 ======
-* Currently signed in to 43 different slack teams
+
+* Participated in the 1st and 3rd editions of the GAPCOMB Worshop. 
+* Part of the organization of the CSL 2020 conference. 
+* Subreviewer at  CAV 2021 & 2022, VMCAI 2021, FMCAD 2021 & 2022.
+* Bronze Medal at the International Math Competition 2018.
