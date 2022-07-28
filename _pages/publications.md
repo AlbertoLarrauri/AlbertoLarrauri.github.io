@@ -111,7 +111,7 @@ generating complementary tests with constrained effort.
 <strong style="color:#52adc8"> Minimization and Synthesis in Sequential Compositions of Mealy Machines: Revisited
 </strong> <br>
 Alberto Larrauri & Roderick Bloem, 
-<i> to be published</i> 
+<i> under submission </i> 
 <a href="http://albertolarrauri.github.io/files/minimization_synthesis.pdf
 ">
 <img src="./../images/pdf-svg.svg" width=16em title="pdf"/>
@@ -135,7 +135,7 @@ We study two problems on systems that consist of a sequential composition of Mea
 Input Restrictions
 </strong> <br>
 Alberto Larrauri & Roderick Bloem, 
-<i> to be published</i> 
+<i> under submission </i> 
 <a href="http://albertolarrauri.github.io/files/conformance_testing.pdf
 ">
 <img src="./../images/pdf-svg.svg" width=16em title="pdf"/>
