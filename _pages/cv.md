@@ -14,7 +14,10 @@ Education
 * B.S. in Mathematics, Zaragoza University, Sep. 2014 - Jul. 2018.
 * M.S. in Advanced Mathematics and Mathematical Engineering, Barcelona Tech, Sep. 2018 - Jul. 2019. Master thesis titled <i> First Order Logic of Sparse Hyper-graphs
 </i> awarded with honors.
-* Ph.D in Applied Mathematics, Barcelona Tech, Sep. 2019 - Jan. 2023 (expected).
+* Ph.D in Applied Mathematics, Barcelona Tech, Sep. 2019 - March. 2023 (expected). You can find my thesis here. <a href="http://albertolarrauri.github.io/files/Thesis.pdf
+">
+<img src="./../images/pdf-svg.svg" width=16em title="pdf"/>
+</a>
 
 
 Work experience
