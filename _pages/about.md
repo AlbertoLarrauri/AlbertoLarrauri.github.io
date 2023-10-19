@@ -9,7 +9,11 @@ redirect_from:
 ---
 <br>
 
-Since September 2019 am a PhD student in the program of Applied Mathematics at Barcelona Tech, under the supervision of Marc Noy. My main areas of research are the asymptotic study of random structures, finite model theory and the interplay between the two. In my PhD I study various different random models through the lens of first-order logic, such as the Erdős-Rényi graph, graphs with given degree sequences and uniform graphs in addable minor-closed classes. I also have done work on random hypergraphs and more general relational structures. 
+Since July 2023 I am a Senior Research Associate at the university of Oxford, working with professor Standa \v{Z}ivn\'{y}. My current research is on the theoretical aspects of approximations of Constraint Satisfaction Problems. More concretely, I study the computational complexity of Promise Constraint Satisfaction Problems, which can be seen as generalizations of the Approximate Graph Coloring Problem. In my research, tools from other areas of mathematics and computer science often come into play, such as universal algebra, combinatorics or logic. I am funded by the ERC Consolidator Grant New Approaches to Approximability of Satisfiable Problems. 
+
+<br>
+
+I finished my PhD  2019 am a PhD student in the program of Applied Mathematics at Barcelona Tech, under the supervision of Marc Noy. My main areas of research are the asymptotic study of random structures, finite model theory and the interplay between the two. In my PhD I study various different random models through the lens of first-order logic, such as the Erdős-Rényi graph, graphs with given degree sequences and uniform graphs in addable minor-closed classes. I also have done work on random hypergraphs and more general relational structures. 
 <br>
 
 
