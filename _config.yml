@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Alberto Larrauri"
   avatar           : "avatar.jpg"
-  bio              : "PhD Candidate at Barcelona Tech & Research Assistant at TU Graz"
-  location         : "Graz, Austria"
+  bio              : "Senior Research Associate at the University of Oxford"
+  location         : "Oxford, United Kingdom"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xGF_tBsAAAAJ"
-  email            : "lazaro.alberto.larrauri@upc.edu"
+  email            : "alberto.larrauri@cs.ox.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
